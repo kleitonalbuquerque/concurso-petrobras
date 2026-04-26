@@ -1,0 +1,166 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Petrobras::Analista Sistemas ES
+Frente	Verso	Tags
+Qual e a diferenca central entre modelo cascata e desenvolvimento iterativo?	Cascata organiza fases sequenciais; iterativo entrega incrementos e permite revisao progressiva conforme feedback.	B1-ES-01
+Quando um ciclo incremental e mais adequado que cascata?	Quando requisitos podem evoluir e entregas parciais reduzem risco e aumentam aprendizado.	B1-ES-06
+O que e ALM?	Gerenciamento do ciclo de vida da aplicacao: planejamento, desenvolvimento, testes, entrega, operacao e manutencao.	B1-ES-08
+Qual e a ideia de BDD?	Descrever comportamento esperado em linguagem compartilhada por negocio e tecnologia, guiando testes e desenvolvimento.	B1-ES-09
+Qual e a ideia de TDD?	Escrever um teste antes do codigo, fazer passar e refatorar mantendo o teste verde.	B1-ES-10
+O que caracteriza integracao continua?	Integrar codigo com frequencia, executar build e testes automatizados para detectar problemas cedo.	B1-ES-11
+Qual e a diferenca entre CI e CD?	CI integra e testa continuamente; CD automatiza entrega ou implantacao ate ambientes finais.	B1-ES-15
+O que um DER representa?	Entidades, atributos, relacionamentos e cardinalidades de um dominio de dados.	B1-ES-12
+Para que serve BPMN?	Modelar processos de negocio com eventos, atividades, gateways e fluxos padronizados.	B1-ES-13
+O que DevOps busca reduzir?	A distancia entre desenvolvimento e operacao por automacao, colaboracao, observabilidade e entrega continua.	B1-ES-14
+Qual e a diferenca entre requisito funcional e nao funcional?	Funcional descreve comportamento; nao funcional descreve qualidade, restricao ou atributo do sistema.	B1-UX-01
+O que e uma historia de usuario bem formada?	Uma necessidade escrita sob a perspectiva do usuario, com valor e criterios de aceitacao testaveis.	B1-UX-03
+Para que servem criterios de aceitacao?	Definem condicoes objetivas para aceitar ou rejeitar uma entrega.	B1-UX-04
+O que e MVP?	Versao minima que testa hipoteses de valor com menor esforco viavel.	B1-UX-06
+O que e Lean UX?	Abordagem que combina hipoteses, experimentos rapidos, colaboracao e aprendizado continuo sobre experiencia do usuario.	B1-UX-05
+Qual e o risco de uma persona mal definida?	Gerar decisoes de produto baseadas em estereotipos, nao em evidencias de usuario.	B1-UX-10
+O que significa projeto centrado no usuario?	Projetar com foco em necessidades, contexto, limitacoes e validacao com usuarios reais.	B1-UX-08
+Qual e a funcao da prototipacao?	Explorar e validar solucoes antes de investir em implementacao completa.	B1-UX-07
+Como storytelling ajuda em UX?	Organiza contexto, motivacao e jornada do usuario para comunicar problemas e solucoes.	B1-UX-09
+Qual e a ideia do padrao MVC?	Separar modelo, visao e controle para reduzir acoplamento entre dados, interface e fluxo.	B1-ARQ-01
+Qual e o objetivo de uma arquitetura em N camadas?	Separar responsabilidades como apresentacao, negocio e dados, facilitando manutencao e escalabilidade.	B1-ARQ-02
+O que diferencia microsservicos de um monolito?	Microsservicos dividem capacidades de negocio em servicos independentes; monolito concentra tudo em uma unica aplicacao.	B1-ARQ-03
+Qual e a principal vantagem de arquitetura orientada a eventos?	Desacoplar produtores e consumidores e reagir a fatos do sistema de forma assincrona.	B1-ARQ-04
+O que e modernizacao de aplicacoes?	Evoluir sistemas legados por refatoracao, replatforming, rehosting, rearchitecting ou substituicao controlada.	B1-ARQ-06
+O que e API gateway?	Ponto de entrada que centraliza roteamento, seguranca, limites e observabilidade para APIs.	B1-ARQ-08
+O que significa cloud native?	Projetar aplicacoes para tirar proveito de elasticidade, automacao, resiliencia e servicos gerenciados de nuvem.	B1-ARQ-09
+O que e design pattern?	Solucao recorrente e nomeada para um problema comum de projeto de software.	B1-ARQ-10
+O que e anti-pattern?	Solucao recorrente que parece util, mas gera efeitos negativos conhecidos.	B1-ARQ-12
+O que e SOA?	Arquitetura orientada a servicos, com capacidades expostas como servicos interoperaveis e reutilizaveis.	B1-ARQ-15
+Qual e o papel de um ESB?	Mediar comunicacao entre sistemas, com roteamento, transformacao, orquestracao e integracao.	B1-ARQ-16
+SOAP e REST diferem em que aspecto central?	SOAP e protocolo formal baseado em XML; REST e estilo arquitetural orientado a recursos e HTTP.	B1-ARQ-23
+O que e WSDL?	Descricao formal de servicos web SOAP, incluindo operacoes, mensagens e endpoints.	B1-ARQ-23
+O que e UDDI?	Registro para publicacao e descoberta de servicos web.	B1-ARQ-23
+Qual e a diferenca entre XML e JSON?	XML usa tags e estrutura extensivel; JSON usa pares chave-valor mais leve e comum em APIs web.	B1-ARQ-23
+O que e ORM?	Mapeamento entre objetos da aplicacao e tabelas relacionais.	B1-ARQ-21
+Qual e o risco de ORM mal usado?	N+1 queries, consultas ineficientes, vazamento de abstracao e degradacao de performance.	B1-ARQ-21
+O que e mensageria?	Comunicacao por mensagens entre componentes, geralmente assincrona e desacoplada.	B1-ARQ-22
+O que e publish-subscribe?	Padrao em que produtores publicam eventos em topicos e consumidores assinam os topicos de interesse.	B1-ARQ-26
+O que caracteriza streaming de dados?	Processamento continuo de eventos ou registros em fluxo, com baixa latencia.	B1-ARQ-25
+O que e busca em dados nao estruturados?	Indexacao e recuperacao de textos, documentos ou conteudos sem modelo tabular fixo.	B1-ARQ-24
+Qual e a diferenca entre classe e objeto?	Classe define estrutura e comportamento; objeto e uma instancia concreta da classe.	B1-LP-02
+O que e polimorfismo?	Capacidade de tratar objetos diferentes por uma interface comum, com comportamento especifico em tempo de execucao.	B1-LP-02
+O que e encapsulamento?	Ocultar detalhes internos e expor operacoes controladas para proteger invariantes do objeto.	B1-LP-02
+O que sao generics?	Tipos parametrizados que permitem reutilizar estruturas mantendo verificacao de tipo.	B1-LP-04
+Qual problema threads podem criar?	Condicoes de corrida, deadlocks, starvation e dificuldade de reproducao de erros.	B1-LP-05
+O que e deadlock?	Situacao em que processos ou threads aguardam recursos entre si e nenhum progride.	B1-LP-07
+Para que serve garbage collector?	Liberar automaticamente memoria de objetos nao mais alcancaveis pela aplicacao.	B1-LP-08
+Qual e a vantagem de tratamento de excecoes?	Separar fluxo de erro do fluxo normal e permitir recuperacao ou propagacao controlada.	B1-LP-09
+O que sao anotacoes em linguagens como Java e C#?	Metadados anexados ao codigo para orientar compiladores, frameworks ou execucao.	B1-LP-10
+Para que serve profiling?	Medir consumo de CPU, memoria, IO ou tempo para localizar gargalos.	B1-LP-11
+HTML5 define principalmente o que?	Estrutura semantica e recursos de documentos e aplicacoes web.	B1-LP-12
+CSS3 define principalmente o que?	Apresentacao visual, layout, responsividade e efeitos da interface.	B1-LP-12
+JavaScript e mais usado para que em web?	Comportamento dinamico no cliente e tambem desenvolvimento de servidores via runtimes como Node.js.	B1-LP-13
+Python e forte em quais usos?	Automacao, scripts, ciencia de dados, APIs, testes e prototipacao rapida.	B1-LP-14
+.NET Core se caracteriza por que?	Plataforma moderna, multiplataforma e modular para aplicacoes em C# e ecossistema .NET.	B1-LP-15
+O que e garantia da qualidade de software?	Conjunto de processos para prevenir defeitos e assegurar conformidade com requisitos e padroes.	B2-QS-01
+Qual e a diferenca entre Git e GitHub?	Git e sistema de controle de versao; GitHub e plataforma de hospedagem e colaboracao.	B2-QS-02
+O que teste unitario valida?	Um componente pequeno e isolado, como funcao, metodo ou classe.	B2-QS-03
+O que teste de integracao valida?	A interacao entre componentes, servicos, banco de dados ou modulos.	B2-QS-03
+O que teste de aceitacao valida?	Se o sistema atende criterios de negocio e expectativas do usuario ou cliente.	B2-QS-03
+Teste de carga mede o que?	Comportamento sob volume esperado ou crescente de usuarios, requisicoes ou dados.	B2-QS-03
+Teste de vulnerabilidade busca o que?	Falhas de seguranca exploraveis na aplicacao, infraestrutura ou configuracao.	B2-QS-03
+Qual e a diferenca entre caixa-branca e caixa-preta?	Caixa-branca usa conhecimento interno do codigo; caixa-preta avalia entradas e saidas sem ver a implementacao.	B2-QS-04
+O que e teste de regressao?	Teste para verificar se mudancas recentes quebraram comportamento ja existente.	B2-QS-04
+O que e refatoracao?	Melhoria da estrutura interna do codigo sem alterar comportamento observavel.	B2-QS-06
+O que e debito tecnico?	Custo futuro gerado por decisoes tecnicas que aceleram agora, mas dificultam manutencao depois.	B2-QS-07
+O que e code smell?	Sinal de possivel problema de projeto, legibilidade ou manutencao no codigo.	B2-QS-09
+Qual e a funcao de auditoria de sistemas?	Avaliar controles, rastreabilidade, conformidade, riscos e integridade dos sistemas.	B2-QS-10
+O que e TAD?	Modelo abstrato que define dados e operacoes sem impor implementacao concreta.	B2-EDA-02
+Pilha segue qual politica?	LIFO: ultimo a entrar, primeiro a sair.	B2-EDA-02
+Fila segue qual politica?	FIFO: primeiro a entrar, primeiro a sair.	B2-EDA-02
+Qual e a diferenca entre vetor e lista encadeada?	Vetor tem acesso direto por indice; lista encadeada favorece insercoes/remocoes por ponteiros.	B2-EDA-06
+O que mede complexidade Big O?	Crescimento do custo de tempo ou espaco conforme aumenta a entrada.	B2-EDA-08
+Busca binaria exige qual pre-condicao?	Dados ordenados e acesso eficiente ao elemento do meio.	B2-EDA-04
+Qual e a ideia de algoritmo de caminho minimo?	Encontrar o percurso de menor custo entre vertices em um grafo.	B2-EDA-05
+O que e arvore AVL?	Arvore binaria de busca autobalanceada por diferenca de altura.	B2-EDA-07
+Para que arvores B e B+ sao comuns?	Indices de bancos de dados e sistemas de arquivos, por reduzirem acessos a disco.	B2-EDA-07
+O que e recursao?	Tecnica em que uma funcao resolve problema chamando a si mesma com caso menor.	B2-EDA-09
+O que e modelo conceitual de dados?	Representacao de alto nivel do dominio, independente de tecnologia.	B2-DAD-01
+O que e modelo logico de dados?	Representacao estruturada adaptada a um paradigma, como relacional, ainda sem detalhes fisicos completos.	B2-DAD-01
+O que e modelo fisico de dados?	Definicao implementavel com tabelas, indices, tipos, particoes e detalhes do SGBD.	B2-DAD-01
+Qual e o objetivo da normalizacao?	Reduzir redundancia e anomalias de insercao, atualizacao e exclusao.	B2-DAD-04
+O que e integridade referencial?	Regra que garante consistencia entre chaves estrangeiras e registros referenciados.	B2-DAD-05
+O que sao metadados?	Dados que descrevem dados, como origem, tipo, significado, dono e qualidade.	B2-DAD-06
+O que e modelagem dimensional?	Modelagem analitica baseada em fatos e dimensoes para consultas e BI.	B2-DAD-07
+DDL e usado para que?	Definir ou alterar estruturas como tabelas, indices, visoes e esquemas.	B2-DAD-11
+DML e usado para que?	Manipular dados com operacoes como inserir, atualizar, remover e consultar.	B2-DAD-12
+O que significa ACID?	Atomicidade, consistencia, isolamento e durabilidade em transacoes.	B2-DAD-14
+O que e atomicidade em transacao?	Ou todas as operacoes confirmam, ou nenhuma permanece aplicada.	B2-DAD-14
+O que e isolamento em transacao?	Transacoes concorrentes nao devem interferir de modo inconsistente entre si.	B2-DAD-14
+O que e independencia de dados?	Capacidade de mudar estrutura em um nivel sem impactar indevidamente outros niveis ou aplicacoes.	B2-DAD-15
+Quando NoSQL costuma ser adequado?	Quando ha necessidade de escala, flexibilidade de esquema, baixa latencia ou modelos nao relacionais.	B2-DAD-18
+O que e ETL?	Extrair, transformar e carregar dados entre fontes e destinos.	B2-DAD-19
+O que e data lake?	Repositorio amplo para dados brutos ou tratados em diferentes formatos, usado para analise e processamento.	B2-DAD-22
+Banco de grafos e forte para que?	Consultas sobre relacionamentos complexos, caminhos, redes e conexoes.	B2-DAD-23
+O que e alta disponibilidade?	Capacidade de manter servico operacional mesmo diante de falhas.	B2-CLOUD-02
+Qual e a diferenca entre escalabilidade e elasticidade?	Escalabilidade aumenta capacidade; elasticidade ajusta capacidade dinamicamente conforme demanda.	B2-CLOUD-02
+O que e zona de disponibilidade?	Local isolado dentro de uma regiao para aumentar resiliencia contra falhas locais.	B2-CLOUD-03
+O que e IaC?	Gerenciar infraestrutura por codigo versionavel, repetivel e automatizavel.	B2-CLOUD-07
+O que e IoT?	Rede de dispositivos fisicos conectados que coletam, enviam ou recebem dados.	B2-CLOUD-06
+Scrum organiza trabalho principalmente com quais elementos?	Papeis, eventos, artefatos e iteracoes chamadas sprints.	B3-PROD-01
+Kanban otimiza trabalho por quais praticas?	Visualizacao do fluxo, limite de WIP, gestao do fluxo e melhoria continua.	B3-PROD-02
+O que SAFe busca coordenar?	Agilidade em escala por alinhamento entre times, programas, portfolio e estrategia.	B3-PROD-03
+Qual e a diferenca entre dado e informacao?	Dado e registro bruto; informacao e dado interpretado em contexto.	B3-INFO-01
+Qual e a diferenca entre informacao e conhecimento?	Informacao organiza dados; conhecimento permite acao e julgamento baseado em experiencia e contexto.	B3-INFO-01
+O que e BI?	Conjunto de processos e ferramentas para transformar dados em informacao para decisao.	B3-INFO-02
+O que e OLAP?	Processamento analitico para explorar dados multidimensionais por agregacoes, filtros e cortes.	B3-INFO-05
+O que e data warehouse?	Repositorio integrado, historico e orientado a analise para suporte a decisao.	B3-INFO-06
+O que e tabela fato?	Tabela com metricas e chaves para dimensoes em um modelo dimensional.	B3-INFO-07
+O que e dimensao em BI?	Eixo de analise que contextualiza fatos, como tempo, produto, local ou cliente.	B3-INFO-07
+Relatorio e dashboard diferem como?	Relatorio detalha informacao; dashboard monitora indicadores de forma visual e sintetica.	B3-INFO-08
+O que e processamento paralelo?	Dividir trabalho para execucao simultanea em multiplos nucleos ou maquinas.	B3-INFRA-01
+O que e sistema distribuido?	Conjunto de nos independentes que cooperam como um sistema para o usuario.	B3-INFRA-01
+O que e virtualizacao?	Abstracao de recursos fisicos para criar ambientes logicos como VMs, redes ou volumes.	B3-INFRA-03
+TCP e UDP diferem como?	TCP e orientado a conexao e confiavel; UDP e mais simples, sem garantia de entrega.	B3-INFRA-06
+HTTP e HTTPS diferem como?	HTTPS usa TLS para criptografar e autenticar a comunicacao HTTP.	B3-INFRA-06
+LDAP e usado para que?	Acesso e consulta a diretorios, com uso comum em identidades e autenticacao corporativa.	B3-INFRA-06
+OAuth resolve qual problema?	Autorizacao delegada para acesso a recursos sem compartilhar senha do usuario.	B3-INFRA-06
+SAML e comum em qual cenario?	Federacao de identidade e single sign-on em ambientes corporativos.	B3-INFRA-06
+Seguranca fisica protege o que?	Instalacoes, equipamentos, acesso fisico, energia, climatizacao e ambiente operacional.	B3-SEG-01
+Firewall atua principalmente como?	Controle de trafego conforme regras de rede, portas, protocolos e enderecos.	B3-SEG-02
+IDS e IPS diferem como?	IDS detecta e alerta; IPS tambem bloqueia ou previne trafego suspeito.	B3-SEG-02
+O que e DLP?	Tecnologia e processo para prevenir vazamento ou exfiltracao de dados sensiveis.	B3-SEG-02
+O que e SIEM?	Plataforma que centraliza logs, correlaciona eventos e apoia deteccao de incidentes.	B3-SEG-02
+O que e EDR?	Ferramenta de deteccao e resposta em endpoints.	B3-SEG-02
+O que e WAF?	Firewall voltado a proteger aplicacoes web contra ataques em camada de aplicacao.	B3-SEG-02
+Ransomware faz o que?	Restringe acesso a dados ou sistemas, geralmente por criptografia, exigindo resgate.	B3-SEG-03
+SQL injection explora o que?	Entrada nao tratada que altera comandos SQL executados pela aplicacao.	B3-SEG-04
+XSS explora o que?	Injecao de script em contexto web para executar codigo no navegador da vitima.	B3-SEG-04
+CSRF explora o que?	Uso da sessao autenticada da vitima para enviar requisicoes nao desejadas.	B3-SEG-04
+Path traversal busca o que?	Acessar arquivos fora do diretorio permitido por manipulacao de caminhos.	B3-SEG-04
+SAST, DAST e IAST diferem como?	SAST analisa codigo; DAST testa app em execucao; IAST combina instrumentacao e execucao.	B3-SEG-05
+VPN serve para que?	Criar canal seguro sobre rede nao confiavel, protegendo trafego entre pontos.	B3-SEG-06
+SSO significa o que?	Single sign-on: autenticacao unica para acessar multiplos sistemas integrados.	B3-SEG-08
+MFA reduz qual risco?	Comprometimento por senha unica, exigindo fatores adicionais de autenticacao.	B3-SEG-09
+RBAC e ABAC diferem como?	RBAC autoriza por papeis; ABAC por atributos de usuario, recurso, acao e contexto.	B3-SEG-10
+Qual e o foco do NIST SP 800-61?	Gerenciamento do ciclo de resposta a incidentes de seguranca.	B3-SEG-11
+Threat intelligence fornece o que?	Informacoes sobre ameacas, atores, tecnicas, indicadores e contexto para defesa.	B3-SEG-12
+Threat hunting e o que?	Busca proativa por sinais de comprometimento ainda nao detectados automaticamente.	B3-SEG-12
+Pentest tem qual objetivo?	Simular ataques para encontrar e demonstrar vulnerabilidades exploraveis.	B3-SEG-13
+STRIDE classifica ameacas em quais categorias?	Spoofing, Tampering, Repudiation, Information disclosure, Denial of service e Elevation of privilege.	B3-SEG-14
+MITRE ATT&CK organiza o que?	Taticas, tecnicas e procedimentos usados por adversarios em ataques reais.	B3-SEG-15
+ISO 31000 trata de que?	Diretrizes para gestao de riscos.	B3-SEG-16
+ISO 22301 trata de que?	Sistema de gestao de continuidade de negocios.	B3-SEG-16
+SOX busca fortalecer o que?	Controles, confiabilidade de informacoes financeiras e responsabilidade corporativa.	B3-SEG-16
+ISO 27002 fornece o que?	Controles e boas praticas para seguranca da informacao.	B3-SEG-19
+Assinatura digital garante principalmente o que?	Autenticidade, integridade e nao repudio, conforme chaves e certificados validos.	B3-SEG-19
+Criptografia simetrica e assimetrica diferem como?	Simetrica usa mesma chave; assimetrica usa par de chaves publica e privada.	B3-SEG-19
+Seguranca em nuvem exige atencao a qual modelo?	Responsabilidade compartilhada entre provedor e cliente.	B3-SEG-20
+O que e governanca de TI?	Estrutura para alinhar TI aos objetivos, gerar valor, gerir riscos e medir desempenho.	B3-GOV-01
+ITIL 4 e focado em que?	Gestao de servicos de TI orientada a valor, praticas e sistema de valor de servico.	B3-GOV-06
+O que e viabilidade tecnica e economica?	Avaliacao se uma solucao e executavel tecnicamente e justificavel em custo, risco e beneficio.	B3-GOV-03
+O que e ERP?	Sistema integrado que suporta processos corporativos como financas, compras, estoque e RH.	B3-GOV-05
+DAMA-DMBoK organiza qual dominio?	Gestao e governanca de dados, com areas como qualidade, metadados, arquitetura e dados mestres.	B3-GOV-07
+Em Portugues, o que e coesao textual?	Conexao linguistica entre partes do texto por referencia, substituicao, elipse, repeticao e conectores.	P-04
+Em Portugues, crase ocorre em que situacao basica?	Fusao da preposicao a com artigo a ou pronome iniciado por a.	P-11
+Concordancia verbal regula o que?	Adequacao entre verbo e sujeito em pessoa e numero.	P-09
+Regencia verbal trata de que?	Relacao entre verbo e seus complementos, inclusive uso de preposicoes.	P-10
+Colocacao pronominal envolve quais posicoes?	Proclise, mesoclise e enclise.	P-12
+Em Ingles, por que cognatos podem ajudar?	Permitem inferir significado por semelhanca entre idiomas, desde que se evitem falsos cognatos.	I-03
+Em Ingles, qual e a melhor primeira leitura de prova?	Identificar tema, fonte, ideia central, conectores e palavras-chave antes de traduzir detalhes.	I-01
