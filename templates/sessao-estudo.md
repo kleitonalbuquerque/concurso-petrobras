@@ -1,13 +1,13 @@
-# Sessao de estudo - YYYY-MM-DD
+# Sessão de estudo - YYYY-MM-DD
 
 ## Dados
 
-- Topico:
+- Tópico:
 - Bloco:
 - Tempo de teoria:
-- Tempo de questoes:
-- Tempo de revisao:
-- Questoes feitas:
+- Tempo de questões:
+- Tempo de revisão:
+- Questões feitas:
 - Acertos:
 - Erros:
 
@@ -17,7 +17,7 @@
 
 ## Erros
 
-| Questao | Erro | Causa | Correcao | Card criado |
+| Questão | Erro | Causa | Correção | Card criado |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
@@ -25,7 +25,7 @@
 
 -
 
-## Proxima revisao
+## Próxima revisão
 
 - [ ] R1:
 - [ ] R2:

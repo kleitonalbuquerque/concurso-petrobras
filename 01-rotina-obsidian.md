@@ -9,15 +9,15 @@
 
 ## Estrutura recomendada
 
-- Use `00-dashboard-petrobras.md` como pagina inicial.
+- Use `00-dashboard-petrobras.md` como página inicial.
 - Use `plano-estudos-petrobras-analista-sistemas.md` como edital verticalizado.
-- Crie uma nota por topico estudado usando `templates/topico-edital.md`.
-- Crie uma nota por sessao de estudo usando `templates/sessao-estudo.md`.
-- Mantenha o caderno de erros dentro das notas de topico ou em uma nota propria.
+- Crie uma nota por tópico estudado usando `templates/topico-edital.md`.
+- Crie uma nota por sessão de estudo usando `templates/sessao-estudo.md`.
+- Mantenha o caderno de erros dentro das notas de tópico ou em uma nota própria.
 
-## Revisoes
+## Revisões
 
-Ao finalizar um topico, registre:
+Ao finalizar um tópico, registre:
 
 - R0: mesmo dia.
 - R1: 24 horas depois.
@@ -25,20 +25,20 @@ Ao finalizar um topico, registre:
 - R3: 30 dias depois.
 - R4: depois de simulado.
 
-Sugestao de tags:
+Sugestão de tags:
 
 - `#petrobras`
-- `#revisao/r1`
-- `#revisao/r2`
+- `#revisão/r1`
+- `#revisão/r2`
 - `#erro`
 - `#flashcard`
-- `#questoes`
+- `#questões`
 
 ## Flashcards
 
-O arquivo `flashcards-petrobras-base.tsv` esta em formato TSV e pode ser importado no Anki.
+O arquivo `flashcards-petrobras-base.tsv` está em formato TSV e pode ser importado no Anki.
 
-Configuracao no Anki:
+Configuração no Anki:
 
 - Tipo: Basic.
 - Separador: tab.
@@ -46,13 +46,3 @@ Configuracao no Anki:
 - Campo 2: Verso.
 - Campo 3: Tags.
 - Baralho sugerido: `Petrobras::Analista Sistemas ES`.
-
-## Notion
-
-O Notion pode importar:
-
-- Markdown: importe `plano-estudos-petrobras-analista-sistemas.md`.
-- CSV: importe os arquivos dentro de `notion-import/`.
-
-Para sincronizacao automatica com Notion, seria preciso usar a API do Notion com um token de integracao e um database id.
-

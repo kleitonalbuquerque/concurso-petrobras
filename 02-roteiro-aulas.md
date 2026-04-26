@@ -1,33 +1,33 @@
 # Roteiro pelas aulas
 
-Base: capturas enviadas do conteudo de videoaulas e aulas em PDF.
+Base: capturas enviadas do conteúdo de videoaulas e aulas em PDF.
 
 ## Resposta curta
 
-As imagens ja ajudam a montar o roteiro de estudos. Elas mostram a estrutura por disciplina, topicos e parte da separacao entre videoaulas e PDFs.
+As imagens já ajudam a montar o roteiro de estudos. Elas mostram a estrutura por disciplina, tópicos e parte da separação entre videoaulas e PDFs.
 
 Para fechar 100%, ainda ajudaria ter:
 
-- prints completos dos topicos cortados, especialmente `Arquitetura de Aplicacoes` no final da lista;
+- prints completos dos tópicos cortados, especialmente `Arquitetura de Aplicações` no final da lista;
 - sua disponibilidade semanal de estudo;
 - meta de prazo, por exemplo 8, 10 ou 12 semanas;
-- se voce vai estudar por Gran, Estrategia, os dois, ou apenas usar as plataformas como apoio.
+- se você vai estudar por Gran, Estratégia, os dois, ou apenas usar as plataformas como apoio.
 
-Mesmo assim, ja da para estudar com a versao abaixo.
+Mesmo assim, já dá para estudar com a versão abaixo.
 
 ## Como usar este roteiro
 
-Regra principal: quando o mesmo assunto aparecer em videoaula e PDF, a segunda passagem nao e teoria nova; e revisao ativa.
+Regra principal: quando o mesmo assunto aparecer em videoaula e PDF, a segunda passagem não é teoria nova; é revisão ativa.
 
-Para cada topico:
+Para cada tópico:
 
 1. Assistir ou ler a aula principal.
-2. Fazer resumo de ate uma pagina.
-3. Resolver questoes.
+2. Fazer resumo de até uma página.
+3. Resolver questões.
 4. Criar flashcards.
-5. Agendar revisoes R1, R2 e R3.
+5. Agendar revisões R1, R2 e R3.
 
-Padrao de revisao:
+Padrão de revisão:
 
 - R0: mesmo dia, 10 a 15 minutos.
 - R1: 24 horas depois.
@@ -39,191 +39,191 @@ Padrao de revisao:
 
 | Semana | Foco | Entrega |
 | --- | --- | --- |
-| 1 | Lingua Portuguesa e Lingua Inglesa | Base de interpretacao e gramatica aplicada |
+| 1 | Língua Portuguesa e Língua Inglesa | Base de interpretação e gramática aplicada |
 | 2 | Engenharia de Software e Requisitos/UX | Ciclos, metodologias, requisitos, UX, BPMN e DevOps |
-| 3 | Arquitetura de Aplicacoes I | SOA, ESB, MVC, N camadas, microsservicos, eventos, cloud native |
-| 4 | Arquitetura de Aplicacoes II e Linguagens | APIs, REST/SOAP, mensageria, persistencia, OO, HTML, CSS, JS, Python, .NET |
+| 3 | Arquitetura de Aplicações I | SOA, ESB, MVC, N camadas, microsserviços, eventos, cloud native |
+| 4 | Arquitetura de Aplicações II e Linguagens | APIs, REST/SOAP, mensageria, persistência, OO, HTML, CSS, JS, Python, .NET |
 | 5 | Qualidade, Testes e Estrutura de Dados | Testes, auditoria, algoritmos, TADs e complexidade |
-| 6 | Arquitetura de Dados | Modelagem, SQL, ACID, transacoes, performance, metadados |
+| 6 | Arquitetura de Dados | Modelagem, SQL, ACID, transações, performance, metadados |
 | 7 | BI, DW, OLAP, Data Lake e Nuvem | Dimensional, ETL, BI, cloud, IoT e IaC |
-| 8 | Produtos, Analise de Dados e Infraestrutura | Scrum, Kanban, SAFe, DIKW, planilhas, virtualizacao e protocolos |
-| 9 | Seguranca I | Operacao de seguranca, malwares, ataques, SAST/DAST/IAST, IAM |
-| 10 | Seguranca II e Governanca | NIST, pentest, ISO 22301, ISO 31000, ISO 27002, ITIL e DAMA |
-| 11 | PDFs como consolidacao | Revisar PDFs, refazer erros e completar flashcards |
-| 12 | Simulados e ajuste fino | Simulados, caderno de erros e topicos fracos |
+| 8 | Produtos, Análise de Dados e Infraestrutura | Scrum, Kanban, SAFe, DIKW, planilhas, virtualização e protocolos |
+| 9 | Segurança I | Operação de segurança, malwares, ataques, SAST/DAST/IAST, IAM |
+| 10 | Segurança II e Governança | NIST, pentest, ISO 22301, ISO 31000, ISO 27002, ITIL e DAMA |
+| 11 | PDFs como consolidação | Revisar PDFs, refazer erros e completar flashcards |
+| 12 | Simulados e ajuste fino | Simulados, caderno de erros e tópicos fracos |
 
 ## Trilha de videoaulas
 
-### 1. Lingua Portuguesa
+### 1. Língua Portuguesa
 
-- [ ] Topico 1: compreensao e interpretacao de textos; tipos e generos textuais; coesao textual; reescrita; significacao; substituicao; reorganizacao de oracoes; formalidade.
-- [ ] Topico 2: ortografia; tempos e modos verbais; morfossintaxe; classes de palavras; coordenacao e subordinacao; pontuacao; concordancia; regencia; crase; colocacao pronominal.
+- [ ] Tópico 1: compreensão e interpretação de textos; tipos e gêneros textuais; coesão textual; reescrita; significação; substituição; reorganização de orações; formalidade.
+- [ ] Tópico 2: ortografia; tempos e modos verbais; morfossintaxe; classes de palavras; coordenação e subordinação; pontuação; concordância; regência; crase; colocação pronominal.
 
-### 2. Lingua Inglesa
+### 2. Língua Inglesa
 
-- [ ] Topico 1: compreensao de textos escritos em lingua inglesa; itens gramaticais relevantes para entendimento dos sentidos.
+- [ ] Tópico 1: compreensão de textos escritos em língua inglesa; itens gramaticais relevantes para entendimento dos sentidos.
 
 ### 3. Engenharia de Software
 
-- [ ] Topico 1: ciclos de vida; metodologias; arquitetura de software; projeto de software; processos e praticas; desenvolvimento iterativo e incremental; praticas ageis; ALM; historias de usuario; criterios de aceitacao; Lean UX; MVP; prototipacao; projeto centrado no usuario; refatoracao e modernizacao; componentizacao; qualidade; Git; testes; tecnicas de teste; automacao; refatoracao; debito tecnico; metricas; code smell.
-- [ ] Topico 2: integracao continua; DevOps; CI/CD.
-- [ ] Topico 3: BPMN; gerenciamento de processos.
+- [ ] Tópico 1: ciclos de vida; metodologias; arquitetura de software; projeto de software; processos e práticas; desenvolvimento iterativo e incremental; práticas ágeis; ALM; histórias de usuário; critérios de aceitação; Lean UX; MVP; prototipação; projeto centrado no usuário; refatoração e modernização; componentização; qualidade; Git; testes; técnicas de teste; automação; refatoração; débito técnico; métricas; code smell.
+- [ ] Tópico 2: integração contínua; DevOps; CI/CD.
+- [ ] Tópico 3: BPMN; gerenciamento de processos.
 
-### 4. Requisitos e Experiencia do Usuario
+### 4. Requisitos e Experiência do Usuário
 
-- [ ] Topico 1: design thinking.
-- [ ] Topico 2: storytelling.
+- [ ] Tópico 1: design thinking.
+- [ ] Tópico 2: storytelling.
 
-### 5. Arquitetura de Aplicacoes
+### 5. Arquitetura de Aplicações
 
-- [ ] Topico 1: SOA e ESB.
-- [ ] Topico 2: MVC.
-- [ ] Topico 3: sistemas de N camadas.
-- [ ] Topico 4: microsservicos.
-- [ ] Topico 5: arquitetura orientada a eventos.
-- [ ] Topico 6: arquitetura cloud native.
-- [ ] Topico 7: conteinerizacao de aplicacao.
-- [ ] Topico 8: servicos de mensageria e publish-subscribe.
-- [ ] Topico 9: mediate APIs, REST e JSON.
-- [ ] Topico 10: SOAP, REST, XML, XSLT, UDDI, WSDL, JSON, RMI e XML-HttpRequest.
-- [ ] Topico 11: padroes de design de software.
-- [ ] Topico 12: design patterns e anti-patterns.
-- [ ] Topico 13: interoperabilidade entre aplicacoes.
-- [ ] Topico 14: frameworks de persistencia de dados e mapeamento objeto-relacional. Confirmar com print completo, pois a captura ficou cortada.
+- [ ] Tópico 1: SOA e ESB.
+- [ ] Tópico 2: MVC.
+- [ ] Tópico 3: sistemas de N camadas.
+- [ ] Tópico 4: microsserviços.
+- [ ] Tópico 5: arquitetura orientada a eventos.
+- [ ] Tópico 6: arquitetura cloud native.
+- [ ] Tópico 7: conteinerização de aplicação.
+- [ ] Tópico 8: serviços de mensageria e publish-subscribe.
+- [ ] Tópico 9: mediação de APIs, REST e JSON.
+- [ ] Tópico 10: SOAP, REST, XML, XSLT, UDDI, WSDL, JSON, RMI e XML-HttpRequest.
+- [ ] Tópico 11: padrões de design de software.
+- [ ] Tópico 12: design patterns e anti-patterns.
+- [ ] Tópico 13: interoperabilidade entre aplicações.
+- [ ] Tópico 14: frameworks de persistência de dados e mapeamento objeto-relacional. Confirmar com print completo, pois a captura ficou cortada.
 
-### 6. Linguagens de Programacao
+### 6. Linguagens de Programação
 
-- [ ] Topico 1: orientacao a objetos.
-- [ ] Topico 2: interfaces ricas com HTML.
-- [ ] Topico 3: interfaces ricas com CSS.
-- [ ] Topico 4: JavaScript.
-- [ ] Topico 5: Python 3.7 ou superior.
-- [ ] Topico 6: .NET Core 5 ou superior.
+- [ ] Tópico 1: orientação a objetos.
+- [ ] Tópico 2: interfaces ricas com HTML.
+- [ ] Tópico 3: interfaces ricas com CSS.
+- [ ] Tópico 4: JavaScript.
+- [ ] Tópico 5: Python 3.7 ou superior.
+- [ ] Tópico 6: .NET Core 5 ou superior.
 
 ### 7. Qualidade de Software
 
-- [ ] Topico 1: auditoria de sistemas.
+- [ ] Tópico 1: auditoria de sistemas.
 
 ### 8. Estrutura de Dados e Algoritmos
 
-- [ ] Topico 1: tipos basicos; sub-rotinas por endereco, referencia e valor; vetores; matrizes; programacao recursiva; caracteristicas estruturais das linguagens.
-- [ ] Topico 2: TADs; lista; fila; pilha; arvore; listas ordenadas; listas encadeadas; arvores binarias.
-- [ ] Topico 3: algoritmos para pesquisa e ordenacao.
-- [ ] Topico 4: complexidade de algoritmos.
+- [ ] Tópico 1: tipos básicos; sub-rotinas por endereço, referência e valor; vetores; matrizes; programação recursiva; características estruturais das linguagens.
+- [ ] Tópico 2: TADs; lista; fila; pilha; árvore; listas ordenadas; listas encadeadas; árvores binárias.
+- [ ] Tópico 3: algoritmos para pesquisa e ordenação.
+- [ ] Tópico 4: complexidade de algoritmos.
 
 ### 9. Arquitetura de Dados
 
-- [ ] Topico 1: modelagem conceitual, logica e fisica; criacao e alteracao de modelos; abordagem relacional; normalizacao; integridade referencial; engenharia reversa; SQL; DDL; DML; ACID; independencia de dados; transacoes; performance; banco em memoria.
-- [ ] Topico 2: metadados.
-- [ ] Topico 3: modelagem dimensional; ETL; transferencia de arquivos; integracao via base de dados; BI; fontes de dados; OLAP; data warehouse; otimizacao multidimensional; dashboards; insights; suporte a decisao.
+- [ ] Tópico 1: modelagem conceitual, lógica e física; criação e alteração de modelos; abordagem relacional; normalização; integridade referencial; engenharia reversa; SQL; DDL; DML; ACID; independência de dados; transações; performance; banco em memória.
+- [ ] Tópico 2: metadados.
+- [ ] Tópico 3: modelagem dimensional; ETL; transferência de arquivos; integração via base de dados; BI; fontes de dados; OLAP; data warehouse; otimização multidimensional; dashboards; insights; suporte a decisão.
 
-### 10. Computacao em Nuvem
+### 10. Computação em Nuvem
 
-- [ ] Topico 1: beneficios; alta disponibilidade; escalabilidade; elasticidade; agilidade; recuperacao de desastres; regioes; zonas; subscricoes; grupos de gestao; recursos; identidade; privacidade; conformidade; seguranca; custos.
-- [ ] Topico 2: IoT.
-- [ ] Topico 3: Infrastructure as Code e automacao.
+- [ ] Tópico 1: benefícios; alta disponibilidade; escalabilidade; elasticidade; agilidade; recuperação de desastres; regiões; zonas; subscrições; grupos de gestão; recursos; identidade; privacidade; conformidade; segurança; custos.
+- [ ] Tópico 2: IoT.
+- [ ] Tópico 3: Infrastructure as Code e automação.
 
 ### 11. Gerenciamento de Produtos de Software
 
-- [ ] Topico 1: Scrum.
-- [ ] Topico 2: Kanban.
-- [ ] Topico 3: SAFe, caracteristicas, objetivos, aplicabilidade e beneficios.
+- [ ] Tópico 1: Scrum.
+- [ ] Tópico 2: Kanban.
+- [ ] Tópico 3: SAFe, características, objetivos, aplicabilidade e benefícios.
 
-### 12. Analise de Dados e Informacoes
+### 12. Análise de Dados e Informações
 
-- [ ] Topico 1: dado, informacao, conhecimento e inteligencia.
-- [ ] Topico 2: dados estruturados e nao estruturados.
-- [ ] Topico 3: manipulacao de dados em planilhas.
+- [ ] Tópico 1: dado, informação, conhecimento e inteligência.
+- [ ] Tópico 2: dados estruturados e não estruturados.
+- [ ] Tópico 3: manipulação de dados em planilhas.
 
 ### 13. Infraestrutura Computacional e Redes
 
-- [ ] Topico 1: processamento distribuido.
-- [ ] Topico 2: virtualizacao de computacao, armazenamento e rede.
-- [ ] Topico 3: protocolos TCP/IP, HTTP, HTTPS, FTP e SMTP.
+- [ ] Tópico 1: processamento distribuído.
+- [ ] Tópico 2: virtualização de computação, armazenamento e rede.
+- [ ] Tópico 3: protocolos TCP/IP, HTTP, HTTPS, FTP e SMTP.
 
-### 14. Seguranca da Informacao
+### 14. Segurança da Informação
 
-- [ ] Topico 1: operacao de seguranca e gestao de vulnerabilidades.
-- [ ] Topico 2: SAST, DAST e IAST.
-- [ ] Topico 3: resposta a incidente segundo NIST SP 800-61.
-- [ ] Topico 4: seguranca fisica e logica; firewall; proxy; IPS/IDS; DLP; CASB; SIEM; antivirus; EDR; WAF; monitoracao; malwares; ataques DDoS, SQL Injection, XSS e CSRF; Path Traversal; MDM; SSO; MFA; IAM; RBAC; ABAC; criptografia; certificacao digital; assinatura digital; SSL; SAML 2.0; OAuth.
-- [ ] Topico 5: testes de penetracao.
-- [ ] Topico 6: gestao de continuidade de negocios, ISO 22301.
-- [ ] Topico 7: gestao de riscos, ISO 31000.
-- [ ] Topico 8: VPN.
-- [ ] Topico 9: backup.
-- [ ] Topico 10: tecnicas de desenvolvimento seguro.
-- [ ] Topico 11: politicas de seguranca; classificacao de informacoes; ISO 27002.
+- [ ] Tópico 1: operação de segurança e gestão de vulnerabilidades.
+- [ ] Tópico 2: SAST, DAST e IAST.
+- [ ] Tópico 3: resposta a incidente segundo NIST SP 800-61.
+- [ ] Tópico 4: segurança física e lógica; firewall; proxy; IPS/IDS; DLP; CASB; SIEM; antivírus; EDR; WAF; monitoração; malwares; ataques DDoS, SQL Injection, XSS e CSRF; Path Traversal; MDM; SSO; MFA; IAM; RBAC; ABAC; criptografia; certificação digital; assinatura digital; SSL; SAML 2.0; OAuth.
+- [ ] Tópico 5: testes de penetração.
+- [ ] Tópico 6: gestão de continuidade de negócios, ISO 22301.
+- [ ] Tópico 7: gestão de riscos, ISO 31000.
+- [ ] Tópico 8: VPN.
+- [ ] Tópico 9: backup.
+- [ ] Tópico 10: técnicas de desenvolvimento seguro.
+- [ ] Tópico 11: políticas de segurança; classificação de informações; ISO 27002.
 
-### 15. Governanca de TI
+### 15. Governança de TI
 
-- [ ] Topico 1: modelos de governanca de TI; administracao de servicos de TI.
-- [ ] Topico 2: metodologia de gestao e governanca de dados; DAMA-DMBoK.
-- [ ] Topico 3: ITIL v4.
+- [ ] Tópico 1: modelos de governança de TI; administração de serviços de TI.
+- [ ] Tópico 2: metodologia de gestão e governança de dados; DAMA-DMBoK.
+- [ ] Tópico 3: ITIL v4.
 
 ## Trilha de PDFs
 
-Use os PDFs como consolidacao e revisao dos assuntos vistos nas videoaulas.
+Use os PDFs como consolidação e revisão dos assuntos vistos nas videoaulas.
 
-### PDF - Lingua Portuguesa
+### PDF - Língua Portuguesa
 
-- [ ] Topico 1: interpretacao, generos textuais, coesao, reescrita, semantica e reorganizacao textual.
-- [ ] Topico 2: ortografia, tempos verbais, morfossintaxe, classes de palavras, coordenacao, subordinacao, pontuacao, concordancia, regencia, crase e colocacao pronominal.
+- [ ] Tópico 1: interpretação, gêneros textuais, coesão, reescrita, semântica e reorganização textual.
+- [ ] Tópico 2: ortografia, tempos verbais, morfossintaxe, classes de palavras, coordenação, subordinação, pontuação, concordância, regência, crase e colocação pronominal.
 
-### PDF - Lingua Inglesa
+### PDF - Língua Inglesa
 
-- [ ] Topico 1: compreensao de textos em ingles e gramatica para interpretacao.
+- [ ] Tópico 1: compreensão de textos em inglês e gramática para interpretação.
 
 ### PDF - Engenharia de Software
 
-- [ ] Topico 1: engenharia de software; ciclos; metodologias; arquitetura; projeto; processos; iterativo e incremental; prototipacao.
-- [ ] Topico 2: DevOps; CI/CD; requisitos; SOAP; REST; XML; XSLT; UDDI; WSDL; JSON; SOA.
-- [ ] Topico 3: praticas ageis e BPMN.
-- [ ] Topico 4: linguagens; caracteristicas estruturais; OO; HTML; algoritmos.
-- [ ] Topico 5: CSS, JavaScript e Python.
-- [ ] Topico 6: design thinking e conteinerizacao.
-- [ ] Topico 7: arquitetura de aplicacoes; MVC; N camadas; microsservico; eventos; refatoracao e modernizacao; mediate APIs; ALM; BDD; TDD; design patterns; componentizacao; arquitetura corporativa.
-- [ ] Topico 8: cloud native; integracao continua; CI/CD; Git.
-- [ ] Topico 9: persistencia; ORM; mensageria; RMI; XML-HttpRequest; busca em dados nao estruturados; streaming; publish-subscribe.
+- [ ] Tópico 1: engenharia de software; ciclos; metodologias; arquitetura; projeto; processos; iterativo e incremental; prototipação.
+- [ ] Tópico 2: DevOps; CI/CD; requisitos; SOAP; REST; XML; XSLT; UDDI; WSDL; JSON; SOA.
+- [ ] Tópico 3: práticas ágeis e BPMN.
+- [ ] Tópico 4: linguagens; características estruturais; OO; HTML; algoritmos.
+- [ ] Tópico 5: CSS, JavaScript e Python.
+- [ ] Tópico 6: design thinking e conteinerização.
+- [ ] Tópico 7: arquitetura de aplicações; MVC; N camadas; microsserviço; eventos; refatoração e modernização; mediação de APIs; ALM; BDD; TDD; design patterns; componentização; arquitetura corporativa.
+- [ ] Tópico 8: cloud native; integração contínua; CI/CD; Git.
+- [ ] Tópico 9: persistência; ORM; mensageria; RMI; XML-HttpRequest; busca em dados não estruturados; streaming; publish-subscribe.
 
 ### PDF - Qualidade de Software
 
-- [ ] Topico 1: qualidade; garantia; testes; tecnicas de teste.
-- [ ] Topico 2: auditoria; estrutura de dados; TADs; pesquisa; ordenacao; listas; vetores; matrizes; complexidade.
-- [ ] Topico 3: arquitetura de dados; modelagem; integridade; metadados; SGBD; ACID; independencia; DER; abordagem relacional; normalizacao.
-- [ ] Topico 4: SQL, DDL, DML, NoSQL, data lakes e Big Data.
-- [ ] Topico 5: modelagem dimensional; computacao em nuvem; OLAP; data warehouse; modelagem multidimensional; BI.
-- [ ] Topico 6: IaC e automacao.
+- [ ] Tópico 1: qualidade; garantia; testes; técnicas de teste.
+- [ ] Tópico 2: auditoria; estrutura de dados; TADs; pesquisa; ordenação; listas; vetores; matrizes; complexidade.
+- [ ] Tópico 3: arquitetura de dados; modelagem; integridade; metadados; SGBD; ACID; independência; DER; abordagem relacional; normalização.
+- [ ] Tópico 4: SQL, DDL, DML, NoSQL, data lakes e Big Data.
+- [ ] Tópico 5: modelagem dimensional; computação em nuvem; OLAP; data warehouse; modelagem multidimensional; BI.
+- [ ] Tópico 6: IaC e automação.
 
 ### PDF - Gerenciamento de Produtos de Software
 
-- [ ] Topico 1: Scrum, Kanban, dado, informacao, conhecimento, inteligencia, dados estruturados e nao estruturados.
-- [ ] Topico 2: OLAP, data warehouse, bases multidimensionais e BI como suporte a decisao.
-- [ ] Topico 3: planilhas e virtualizacao.
-- [ ] Topico 4: TCP/IP, HTTP, HTTPS, FTP e SMTP.
-- [ ] Topico 5: seguranca fisica e logica; malwares; ataques; criptografia; politicas; operacao de seguranca; backup; IAM; RBAC; ABAC.
-- [ ] Topico 6: ISO 22301 e ISO 27002.
-- [ ] Topico 7: criptografia, certificacao digital, assinatura digital, governanca de TI e governanca de dados.
-- [ ] Topico 8: ITIL v4.
-- [ ] Topico 9: pentest, SAML 2.0, OAuth, SSO e MFA.
+- [ ] Tópico 1: Scrum, Kanban, dado, informação, conhecimento, inteligência, dados estruturados e não estruturados.
+- [ ] Tópico 2: OLAP, data warehouse, bases multidimensionais e BI como suporte a decisão.
+- [ ] Tópico 3: planilhas e virtualização.
+- [ ] Tópico 4: TCP/IP, HTTP, HTTPS, FTP e SMTP.
+- [ ] Tópico 5: segurança física e lógica; malwares; ataques; criptografia; políticas; operação de segurança; backup; IAM; RBAC; ABAC.
+- [ ] Tópico 6: ISO 22301 e ISO 27002.
+- [ ] Tópico 7: criptografia, certificação digital, assinatura digital, governança de TI e governança de dados.
+- [ ] Tópico 8: ITIL v4.
+- [ ] Tópico 9: pentest, SAML 2.0, OAuth, SSO e MFA.
 
-## Ordem diaria sugerida
+## Ordem diária sugerida
 
 Em um dia comum de estudo:
 
 1. 50 min de videoaula ou PDF.
-2. 50 min de questoes do mesmo assunto.
-3. 30 min de revisao e flashcards.
+2. 50 min de questões do mesmo assunto.
+3. 30 min de revisão e flashcards.
 
 Em um dia curto:
 
 1. 40 min de teoria.
-2. 20 min de questoes.
+2. 20 min de questões.
 3. 10 min de flashcards.
 
 ## O que ainda falta confirmar
 
-- Arquitetura de Aplicacoes, topicos depois do item 14, caso existam.
-- Se ha outras abas de conteudo alem de `Videoaulas` e `Aulas em PDF`.
-- Quantidade de horas por semana que voce consegue estudar.
-- Data-alvo: pre-edital, pos-edital ou prova marcada.
+- Arquitetura de Aplicações, tópicos depois do item 14, caso existam.
+- Se há outras abas de conteúdo além de `Videoaulas` e `Aulas em PDF`.
+- Quantidade de horas por semana que você consegue estudar.
+- Data-alvo: pré-edital, pós-edital ou prova marcada.

@@ -1,10 +1,10 @@
-# Topico - codigo
+# Tópico - código
 
-## Identificacao
+## Identificação
 
-- Area:
+- Área:
 - Bloco:
-- Codigo:
+- Código:
 - Prioridade:
 - Fonte principal:
 - Fonte complementar:
@@ -17,13 +17,13 @@
 
 -
 
-## Questoes
+## Questões
 
-| Data | Banco | Feitas | Acertos | % | Observacoes |
+| Data | Banco | Feitas | Acertos | % | Observações |
 | --- | --- | ---: | ---: | ---: | --- |
 | | | | | | |
 
-## Revisoes
+## Revisões
 
 - [ ] R0:
 - [ ] R1:
@@ -37,7 +37,7 @@
 
 ## Caderno de erros
 
-| Data | Questao | Erro | Causa | Correcao |
+| Data | Questão | Erro | Causa | Correção |
 | --- | --- | --- | --- | --- |
 | | | | | |
 
