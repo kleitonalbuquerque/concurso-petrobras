@@ -8,6 +8,7 @@ Use esta pasta como vault do Obsidian:
 
 - [[COMECE-AQUI]]
 - [[plano-estudos-petrobras-analista-sistemas]]
+- [[02-roteiro-aulas]]
 - [[01-rotina-obsidian]]
 - [[flashcards-petrobras-base.tsv]]
 
@@ -33,6 +34,7 @@ Use esta pasta como vault do Obsidian:
 ## Links uteis
 
 - Plano completo: [[plano-estudos-petrobras-analista-sistemas]]
+- Roteiro pelas aulas: [[02-roteiro-aulas]]
 - Rotina no Obsidian: [[01-rotina-obsidian]]
 - Template de sessao: [[templates/sessao-estudo]]
 - Template de topico: [[templates/topico-edital]]

@@ -17,6 +17,7 @@ Este repositorio foi organizado para funcionar como um vault do Obsidian.
 - `COMECE-AQUI.md`: guia inicial para quem nunca usou Obsidian ou Notion.
 - `00-dashboard-petrobras.md`: painel inicial do vault.
 - `plano-estudos-petrobras-analista-sistemas.md`: plano de estudos verticalizado.
+- `02-roteiro-aulas.md`: roteiro de estudo baseado nas capturas de videoaulas e PDFs.
 - `flashcards-petrobras-base.tsv`: flashcards em TSV para importar no Anki.
 - `templates/`: modelos para sessoes de estudo e topicos do edital.
 - `notion-import/`: CSVs para importar no Notion.
@@ -30,4 +31,3 @@ Este repositorio foi organizado para funcionar como um vault do Obsidian.
 ## Observacao
 
 O conteudo deste repositorio foi criado a partir de paginas publicas e do edital publico. Ele nao inclui PDFs, videoaulas, slides ou materiais fechados de plataformas pagas.
-
