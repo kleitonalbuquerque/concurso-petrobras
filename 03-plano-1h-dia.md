@@ -2,6 +2,8 @@
 
 Este plano foi feito para estudar no máximo 1h por dia, de segunda a sexta, com revisão e testes no sábado.
 
+Este é o plano ativo do vault. O ciclo de 12 semanas em [[plano-estudos-petrobras-analista-sistemas]] é apenas uma alternativa intensiva.
+
 ## Regra da semana
 
 - Segunda a sexta: 1h por dia.

@@ -22,7 +22,11 @@ Fontes usadas:
 
 ## Rotina recomendada
 
-Plano padrão: 12 semanas, 6 dias por semana, 3 blocos de 50 minutos por dia. Se você tiver menos tempo, mantenha a ordem e estique a duração. Se tiver mais tempo, aumente questões e simulados.
+Plano ativo do vault: [[03-plano-1h-dia]].
+
+Este arquivo funciona como visão geral e checklist verticalizado do edital. O estudo diário deve seguir o plano de 24 semanas em [[03-plano-1h-dia]], porque ele respeita o limite de no máximo 1h por dia, de segunda a sexta, com revisão e testes no sábado.
+
+O ciclo de 12 semanas abaixo fica apenas como alternativa intensiva para quem puder estudar cerca de 2h30 por dia, 6 dias por semana. Para a sua rotina atual, ignore o ciclo intensivo e siga [[03-plano-1h-dia]].
 
 Distribuição semanal:
 
@@ -36,7 +40,7 @@ Dentro de específicos:
 - Bloco II: 30%.
 - Bloco III: 35%.
 
-Formato de cada sessão:
+Formato de cada sessão no plano intensivo:
 
 1. Teoria ou aula: 50 min.
 2. Questão ativa: 50 min.
@@ -65,7 +69,9 @@ Regra de escalonamento:
 - Acerto entre 60% e 80%: manter em revisão semanal.
 - Acerto acima de 80%: manter no SRS e fazer manutenção quinzenal.
 
-## Ciclo de 12 semanas
+## Ciclo intensivo de 12 semanas
+
+Use somente se você puder estudar cerca de 2h30 por dia. Para a rotina de 1h por dia, use [[03-plano-1h-dia]].
 
 | Semana | Foco principal | Foco secundário | Entrega |
 | --- | --- | --- | --- |
