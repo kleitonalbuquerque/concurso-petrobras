@@ -17,7 +17,10 @@ Este repositório foi organizado para funcionar como um vault do Obsidian.
 - `COMECE-AQUI.md`: guia inicial para usar o vault no Obsidian.
 - `00-dashboard-petrobras.md`: painel inicial do vault.
 - `plano-estudos-petrobras-analista-sistemas.md`: plano de estudos verticalizado.
+- `03-plano-1h-dia.md`: plano completo para estudar 1h por dia, de segunda a sexta, com revisão no sábado.
 - `02-roteiro-aulas.md`: roteiro de estudo baseado nas capturas de videoaulas e PDFs.
+- `05-testes-sabado.md`: roteiro de revisões e testes semanais.
+- `flashcards-petrobras.md`: flashcards visíveis no Obsidian.
 - `flashcards-petrobras-base.tsv`: flashcards em TSV para importar no Anki.
 - `templates/`: modelos para sessões de estudo e tópicos do edital.
 

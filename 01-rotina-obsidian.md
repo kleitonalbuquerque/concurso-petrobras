@@ -36,7 +36,9 @@ Sugestão de tags:
 
 ## Flashcards
 
-O arquivo `flashcards-petrobras-base.tsv` está em formato TSV e pode ser importado no Anki.
+Use `flashcards-petrobras.md` para estudar diretamente no Obsidian.
+
+O arquivo `flashcards-petrobras-base.tsv` está em formato TSV e pode ser importado no Anki. Se ele não aparecer no Obsidian, isso é normal em algumas configurações. Para ver extensões como `.tsv`, ative `Settings > Files and links > Detect all file extensions`.
 
 Configuração no Anki:
 

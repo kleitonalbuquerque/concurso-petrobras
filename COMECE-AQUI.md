@@ -23,13 +23,13 @@ Neste projeto, o vault é esta pasta:
 2. Clique em `Open folder as vault`.
 3. Selecione a pasta `/storage/projects/concurso-ti/petrobras`.
 4. Abra a nota `00-dashboard-petrobras`.
-5. Comece pelo link `plano-estudos-petrobras-analista-sistemas`.
+5. Comece pelo link `03-plano-1h-dia`.
 
 ## Como estudar no dia a dia
 
 1. Abra `00-dashboard-petrobras`.
 2. Veja a semana atual.
-3. Abra o plano completo.
+3. Abra o plano `03-plano-1h-dia`.
 4. Escolha o tópico do dia.
 5. Estude a teoria/aula.
 6. Resolva questões.
@@ -70,7 +70,10 @@ Depois copie o conteúdo de:
 ## Arquivos importantes
 
 - `00-dashboard-petrobras.md`: painel inicial.
+- `03-plano-1h-dia.md`: plano ativo para estudar 1h por dia.
 - `plano-estudos-petrobras-analista-sistemas.md`: plano principal.
+- `flashcards-petrobras.md`: flashcards visíveis no Obsidian.
 - `flashcards-petrobras-base.tsv`: cards para Anki.
+- `05-testes-sabado.md`: roteiro de revisão e testes de sábado.
 - `templates/sessao-estudo.md`: modelo de sessão.
 - `templates/topico-edital.md`: modelo de tópico.

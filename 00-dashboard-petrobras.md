@@ -8,24 +8,26 @@ Use esta pasta como vault do Obsidian:
 
 - [[COMECE-AQUI]]
 - [[plano-estudos-petrobras-analista-sistemas]]
+- [[03-plano-1h-dia]]
 - [[02-roteiro-aulas]]
 - [[01-rotina-obsidian]]
-- [[flashcards-petrobras-base.tsv]]
+- [[flashcards-petrobras]]
+- [[05-testes-sabado]]
 
 ## Fluxo diário
 
-1. Abrir o tópico da semana no plano.
-2. Estudar teoria ou aula por 50 min.
-3. Resolver questões por 50 min.
-4. Atualizar checklist, caderno de erros e flashcards por 50 min.
-5. Marcar a próxima revisão: R1, R2, R3 ou R4.
+1. Abrir [[03-plano-1h-dia]].
+2. Fazer o bloco de 1h do dia.
+3. Revisar [[flashcards-petrobras]].
+4. Registrar erros e marcar o checklist.
+5. No sábado, usar [[05-testes-sabado]].
 
 ## Controle rápido
 
 | Item | Status |
 | --- | --- |
 | Semana atual | 1 |
-| Tópico principal | Português, Inglês, Engenharia de Software básica |
+| Plano ativo | [[03-plano-1h-dia]] |
 | Revisões atrasadas | 0 |
 | Cards novos hoje | 0 |
 | Questões hoje | 0 |
@@ -34,7 +36,10 @@ Use esta pasta como vault do Obsidian:
 ## Links úteis
 
 - Plano completo: [[plano-estudos-petrobras-analista-sistemas]]
+- Plano 1h por dia: [[03-plano-1h-dia]]
 - Roteiro pelas aulas: [[02-roteiro-aulas]]
 - Rotina no Obsidian: [[01-rotina-obsidian]]
+- Flashcards no Obsidian: [[flashcards-petrobras]]
+- Testes de sábado: [[05-testes-sabado]]
 - Template de sessão: [[templates/sessao-estudo]]
 - Template de tópico: [[templates/topico-edital]]
