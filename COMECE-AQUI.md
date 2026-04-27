@@ -70,6 +70,7 @@ Depois copie o conteúdo de:
 ## Arquivos importantes
 
 - `00-dashboard-petrobras.md`: painel inicial.
+- `conteudo/README.md`: índice da apostila própria.
 - `03-plano-1h-dia.md`: plano ativo para estudar 1h por dia.
 - `plano-estudos-petrobras-analista-sistemas.md`: plano principal.
 - `flashcards-petrobras.md`: flashcards visíveis no Obsidian.

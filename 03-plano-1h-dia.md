@@ -34,6 +34,7 @@ Meta mínima do sábado:
 ## Arquivos para usar
 
 - Dashboard: [[00-dashboard-petrobras]]
+- Conteúdo próprio: [[conteudo/README]]
 - Roteiro de aulas: [[02-roteiro-aulas]]
 - Flashcards visíveis no Obsidian: [[flashcards-petrobras]]
 - Flashcards para Anki: [[flashcards-petrobras-base.tsv]]
@@ -42,6 +43,8 @@ Meta mínima do sábado:
 ## Ciclo de 24 semanas
 
 ### Semana 1 - Base de Português e Inglês
+
+Conteúdo: [[conteudo/01-portugues-ingles]]
 
 - [ ] Segunda: Português - interpretação, inferência, ideia central e tipos de texto.
 - [ ] Terça: Português - gêneros textuais, coesão e mecanismos referenciais.
@@ -52,6 +55,8 @@ Meta mínima do sábado:
 
 ### Semana 2 - Engenharia de Software I
 
+Conteúdo: [[conteudo/02-engenharia-requisitos-ux]]
+
 - [ ] Segunda: modelos de ciclo de vida de software.
 - [ ] Terça: metodologias de desenvolvimento e processo iterativo/incremental.
 - [ ] Quarta: arquitetura de software e projeto de software.
@@ -60,6 +65,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S02 em [[05-testes-sabado]].
 
 ### Semana 3 - Engenharia de Software II
+
+Conteúdo: [[conteudo/02-engenharia-requisitos-ux]]
 
 - [ ] Segunda: práticas ágeis, Scrum no contexto de desenvolvimento e ALM.
 - [ ] Terça: BDD, TDD e critérios de aceitação.
@@ -70,6 +77,8 @@ Meta mínima do sábado:
 
 ### Semana 4 - Requisitos e Experiência do Usuário
 
+Conteúdo: [[conteudo/02-engenharia-requisitos-ux]]
+
 - [ ] Segunda: elicitação e gerenciamento de requisitos.
 - [ ] Terça: histórias de usuário e critérios de aceitação.
 - [ ] Quarta: Lean UX, MVP e prototipação.
@@ -78,6 +87,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S04 em [[05-testes-sabado]].
 
 ### Semana 5 - Arquitetura de Aplicações I
+
+Conteúdo: [[conteudo/03-arquitetura-linguagens]]
 
 - [ ] Segunda: MVC.
 - [ ] Terça: sistemas de N camadas.
@@ -88,6 +99,8 @@ Meta mínima do sábado:
 
 ### Semana 6 - Arquitetura de Aplicações II
 
+Conteúdo: [[conteudo/03-arquitetura-linguagens]]
+
 - [ ] Segunda: arquitetura cloud native.
 - [ ] Terça: conteinerização de aplicações.
 - [ ] Quarta: mediação de APIs e gateways.
@@ -96,6 +109,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S06 em [[05-testes-sabado]].
 
 ### Semana 7 - Arquitetura de Aplicações III
+
+Conteúdo: [[conteudo/03-arquitetura-linguagens]]
 
 - [ ] Segunda: design patterns.
 - [ ] Terça: anti-patterns e padrões corporativos.
@@ -106,6 +121,8 @@ Meta mínima do sábado:
 
 ### Semana 8 - Linguagens de Programação
 
+Conteúdo: [[conteudo/03-arquitetura-linguagens]]
+
 - [ ] Segunda: orientação a objetos, coleções e tipos genéricos.
 - [ ] Terça: threads, escalonamento, sincronização e deadlocks.
 - [ ] Quarta: garbage collector, exceções, anotações e profiling.
@@ -114,6 +131,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S08 em [[05-testes-sabado]].
 
 ### Semana 9 - Qualidade de Software
+
+Conteúdo: [[conteudo/04-qualidade-estruturas-algoritmos]]
 
 - [ ] Segunda: garantia da qualidade de software.
 - [ ] Terça: controle de versão e Git.
@@ -124,6 +143,8 @@ Meta mínima do sábado:
 
 ### Semana 10 - Auditoria, Estruturas de Dados I
 
+Conteúdo: [[conteudo/04-qualidade-estruturas-algoritmos]]
+
 - [ ] Segunda: auditoria de sistemas.
 - [ ] Terça: tipos básicos de dados e tipos abstratos de dados.
 - [ ] Quarta: listas, filas, pilhas, vetores e matrizes.
@@ -132,6 +153,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S10 em [[05-testes-sabado]].
 
 ### Semana 11 - Estruturas de Dados II e Algoritmos
+
+Conteúdo: [[conteudo/04-qualidade-estruturas-algoritmos]]
 
 - [ ] Segunda: algoritmos de pesquisa.
 - [ ] Terça: algoritmos de ordenação.
@@ -142,6 +165,8 @@ Meta mínima do sábado:
 
 ### Semana 12 - Arquitetura de Dados I
 
+Conteúdo: [[conteudo/05-dados-bi-nuvem]]
+
 - [ ] Segunda: modelagem conceitual, lógica e física.
 - [ ] Terça: criação e alteração de modelos lógico e físico.
 - [ ] Quarta: modelo relacional e DER.
@@ -150,6 +175,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S12 em [[05-testes-sabado]].
 
 ### Semana 13 - Arquitetura de Dados II
+
+Conteúdo: [[conteudo/05-dados-bi-nuvem]]
 
 - [ ] Segunda: SQL.
 - [ ] Terça: DDL e DML.
@@ -160,6 +187,8 @@ Meta mínima do sábado:
 
 ### Semana 14 - Dados Analíticos, BI e Big Data
 
+Conteúdo: [[conteudo/05-dados-bi-nuvem]]
+
 - [ ] Segunda: modelagem dimensional.
 - [ ] Terça: integração de dados, ETL e transferência de arquivos.
 - [ ] Quarta: OLAP, data warehouse e bases multidimensionais.
@@ -168,6 +197,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S14 em [[05-testes-sabado]].
 
 ### Semana 15 - Computação em Nuvem
+
+Conteúdo: [[conteudo/05-dados-bi-nuvem]]
 
 - [ ] Segunda: conceitos de nuvem e benefícios.
 - [ ] Terça: alta disponibilidade, escalabilidade, elasticidade e recuperação de desastres.
@@ -178,6 +209,8 @@ Meta mínima do sábado:
 
 ### Semana 16 - Produtos, Dados e Planilhas
 
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
+
 - [ ] Segunda: Scrum.
 - [ ] Terça: Kanban.
 - [ ] Quarta: SAFe e gestão de portfólio.
@@ -186,6 +219,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S16 em [[05-testes-sabado]].
 
 ### Semana 17 - Infraestrutura Computacional e Redes
+
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
 
 - [ ] Segunda: processamento paralelo e distribuído.
 - [ ] Terça: HPC, filas e processos.
@@ -196,6 +231,8 @@ Meta mínima do sábado:
 
 ### Semana 18 - Segurança da Informação I
 
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
+
 - [ ] Segunda: segurança física e lógica.
 - [ ] Terça: operação de segurança e gestão de vulnerabilidades.
 - [ ] Quarta: firewall, proxy, IDS/IPS, DLP, CASB, SIEM, antivírus, EDR e WAF.
@@ -204,6 +241,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S18 em [[05-testes-sabado]].
 
 ### Semana 19 - Segurança da Informação II
+
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
 
 - [ ] Segunda: ataques DDoS, SQL Injection, XSS, CSRF e Path Traversal.
 - [ ] Terça: desenvolvimento seguro.
@@ -214,6 +253,8 @@ Meta mínima do sábado:
 
 ### Semana 20 - Segurança da Informação III
 
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
+
 - [ ] Segunda: gerenciamento de resposta a incidente, NIST SP 800-61.
 - [ ] Terça: threat intelligence.
 - [ ] Quarta: threat hunting.
@@ -222,6 +263,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S20 em [[05-testes-sabado]].
 
 ### Semana 21 - Riscos, Continuidade e Criptografia
+
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
 
 - [ ] Segunda: gestão de riscos, ISO 31000.
 - [ ] Terça: gestão de continuidade de negócios, ISO 22301.
@@ -232,6 +275,8 @@ Meta mínima do sábado:
 
 ### Semana 22 - Governança de TI
 
+Conteúdo: [[conteudo/06-produtos-infra-seguranca-governanca]]
+
 - [ ] Segunda: modelos de governança de TI.
 - [ ] Terça: administração de serviços de TI.
 - [ ] Quarta: ITIL v4.
@@ -241,6 +286,8 @@ Meta mínima do sábado:
 
 ### Semana 23 - Revisão Integrada I
 
+Conteúdo: [[conteudo/README]]
+
 - [ ] Segunda: Português e Inglês.
 - [ ] Terça: Engenharia de Software e Requisitos/UX.
 - [ ] Quarta: Arquitetura de Aplicações.
@@ -249,6 +296,8 @@ Meta mínima do sábado:
 - [ ] Sábado: teste S23 em [[05-testes-sabado]].
 
 ### Semana 24 - Revisão Integrada II
+
+Conteúdo: [[conteudo/README]]
 
 - [ ] Segunda: Arquitetura de Dados e BI.
 - [ ] Terça: Computação em Nuvem, Produtos e Análise de Dados.
@@ -265,4 +314,3 @@ Marque o dia como concluído apenas se você fez:
 - pelo menos 5 questões ou 5 flashcards;
 - anotação de erro ou resumo curto;
 - revisão rápida dos cards antigos.
-

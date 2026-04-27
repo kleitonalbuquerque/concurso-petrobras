@@ -7,6 +7,7 @@ Use esta pasta como vault do Obsidian:
 ## Arquivos principais
 
 - [[COMECE-AQUI]]
+- [[conteudo/README]]
 - [[plano-estudos-petrobras-analista-sistemas]]
 - [[03-plano-1h-dia]]
 - [[02-roteiro-aulas]]
@@ -35,6 +36,7 @@ Use esta pasta como vault do Obsidian:
 
 ## Links úteis
 
+- Conteúdo próprio para estudar: [[conteudo/README]]
 - Plano completo: [[plano-estudos-petrobras-analista-sistemas]]
 - Plano 1h por dia: [[03-plano-1h-dia]]
 - Roteiro pelas aulas: [[02-roteiro-aulas]]

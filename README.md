@@ -16,6 +16,7 @@ Este repositório foi organizado para funcionar como um vault do Obsidian.
 
 - `COMECE-AQUI.md`: guia inicial para usar o vault no Obsidian.
 - `00-dashboard-petrobras.md`: painel inicial do vault.
+- `conteudo/`: apostila própria criada para estudar sem curso pago.
 - `plano-estudos-petrobras-analista-sistemas.md`: plano de estudos verticalizado.
 - `03-plano-1h-dia.md`: plano completo para estudar 1h por dia, de segunda a sexta, com revisão no sábado.
 - `02-roteiro-aulas.md`: roteiro de estudo baseado nas capturas de videoaulas e PDFs.
